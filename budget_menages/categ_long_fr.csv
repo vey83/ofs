@@ -1,0 +1,148 @@
+"","cat","year","values"
+"1","Produits alimentaires et boissons non alcoolisées",2015,617.24
+"2","Produits alimentaires et boissons non alcoolisées",2016,612.72
+"3","Produits alimentaires et boissons non alcoolisées",2017,622.61
+"4","Produits alimentaires et boissons non alcoolisées",2018,616
+"5","Produits alimentaires et boissons non alcoolisées",2019,636.55
+"6","Produits alimentaires et boissons non alcoolisées",2020,640.8
+"7","Produits alimentaires et boissons non alcoolisées",2021,663.74
+"8","Boissons alcoolisées et tabacs",2015,105.11
+"9","Boissons alcoolisées et tabacs",2016,102.1
+"10","Boissons alcoolisées et tabacs",2017,102.13
+"11","Boissons alcoolisées et tabacs",2018,96.35
+"12","Boissons alcoolisées et tabacs",2019,94.81
+"13","Boissons alcoolisées et tabacs",2020,101.98
+"14","Boissons alcoolisées et tabacs",2021,111.52
+"15","Restauration et services d'hébergement",2015,539.03
+"16","Restauration et services d'hébergement",2016,539.24
+"17","Restauration et services d'hébergement",2017,541.87
+"18","Restauration et services d'hébergement",2018,549.6
+"19","Restauration et services d'hébergement",2019,558
+"20","Restauration et services d'hébergement",2020,343.36
+"21","Restauration et services d'hébergement",2021,389.86
+"22","Vêtements et chaussures",2015,205.99
+"23","Vêtements et chaussures",2016,195.86
+"24","Vêtements et chaussures",2017,191.64
+"25","Vêtements et chaussures",2018,179.52
+"26","Vêtements et chaussures",2019,175.15
+"27","Vêtements et chaussures",2020,138.19
+"28","Vêtements et chaussures",2021,151.62
+"29","Logement et énergie",2015,1419.15
+"30","Logement et énergie",2016,1433
+"31","Logement et énergie",2017,1420.58
+"32","Logement et énergie",2018,1421.79
+"33","Logement et énergie",2019,1381.19
+"34","Logement et énergie",2020,1410.72
+"35","Logement et énergie",2021,1364.21
+"36","Ameublement, équipement et entretien du ménage",2015,223.34
+"37","Ameublement, équipement et entretien du ménage",2016,219.79
+"38","Ameublement, équipement et entretien du ménage",2017,214.79
+"39","Ameublement, équipement et entretien du ménage",2018,200.58
+"40","Ameublement, équipement et entretien du ménage",2019,209.67
+"41","Ameublement, équipement et entretien du ménage",2020,206.95
+"42","Ameublement, équipement et entretien du ménage",2021,221.84
+"43","Dépenses de santé",2015,257.65
+"44","Dépenses de santé",2016,241.37
+"45","Dépenses de santé",2017,244.48
+"46","Dépenses de santé",2018,238.76
+"47","Dépenses de santé",2019,245.44
+"48","Dépenses de santé",2020,237.03
+"49","Dépenses de santé",2021,225.27
+"50","Transports",2015,705.16
+"51","Transports",2016,711.69
+"52","Transports",2017,699.81
+"53","Transports",2018,718.13
+"54","Transports",2019,709.94
+"55","Transports",2020,630.29
+"56","Transports",2021,668.05
+"57","Communications",2015,178.89
+"58","Communications",2016,179.81
+"59","Communications",2017,179.71
+"60","Communications",2018,179.36
+"61","Communications",2019,173.86
+"62","Communications",2020,174.63
+"63","Communications",2021,169.85
+"64","Loisirs et culture",2015,517.58
+"65","Loisirs et culture",2016,506.77
+"66","Loisirs et culture",2017,546.67
+"67","Loisirs et culture",2018,530.17
+"68","Loisirs et culture",2019,509.76
+"69","Loisirs et culture",2020,394.49
+"70","Loisirs et culture",2021,397.33
+"71","Frais d'écolage et de formation",2015,40.3
+"72","Frais d'écolage et de formation",2016,67.9
+"73","Frais d'écolage et de formation",2017,53.62
+"74","Frais d'écolage et de formation",2018,67.6
+"75","Frais d'écolage et de formation",2019,45.43
+"76","Frais d'écolage et de formation",2020,38.82
+"77","Frais d'écolage et de formation",2021,49.02
+"78","Autres biens et services",2015,247.22
+"79","Autres biens et services",2016,246.8
+"80","Autres biens et services",2017,249.24
+"81","Autres biens et services",2018,282.63
+"82","Autres biens et services",2019,245.07
+"83","Autres biens et services",2020,247.01
+"84","Autres biens et services",2021,235.34
+"85","Assurances sociales: contributions",2015,872.57
+"86","Assurances sociales: contributions",2016,888.78
+"87","Assurances sociales: contributions",2017,879.01
+"88","Assurances sociales: contributions",2018,928.83
+"89","Assurances sociales: contributions",2019,950.42
+"90","Assurances sociales: contributions",2020,988.65
+"91","Assurances sociales: contributions",2021,999.68
+"92","Impôts",2015,1081.31
+"93","Impôts",2016,1074.08
+"94","Impôts",2017,1106.17
+"95","Impôts",2018,1104.74
+"96","Impôts",2019,1179.81
+"97","Impôts",2020,1218.19
+"98","Impôts",2021,1202.61
+"99","Assurance-maladie de base: primes",2015,584.31
+"100","Assurance-maladie de base: primes",2016,614.46
+"101","Assurance-maladie de base: primes",2017,631.23
+"102","Assurance-maladie de base: primes",2018,643.17
+"103","Assurance-maladie de base: primes",2019,669.58
+"104","Assurance-maladie de base: primes",2020,660.53
+"105","Assurance-maladie de base: primes",2021,684.37
+"106","Transferts monétaires versés à d'autres ménages",2015,204.99
+"107","Transferts monétaires versés à d'autres ménages",2016,149.74
+"108","Transferts monétaires versés à d'autres ménages",2017,178.55
+"109","Transferts monétaires versés à d'autres ménages",2018,185.21
+"110","Transferts monétaires versés à d'autres ménages",2019,173.24
+"111","Transferts monétaires versés à d'autres ménages",2020,160.54
+"112","Transferts monétaires versés à d'autres ménages",2021,195.92
+"113","Assurances-maladie complémentaires: primes",2015,128.09
+"114","Assurances-maladie complémentaires: primes",2016,135.14
+"115","Assurances-maladie complémentaires: primes",2017,141.92
+"116","Assurances-maladie complémentaires: primes",2018,143.78
+"117","Assurances-maladie complémentaires: primes",2019,157.5
+"118","Assurances-maladie complémentaires: primes",2020,154.15
+"119","Assurances-maladie complémentaires: primes",2021,162.84
+"120","Autres assurances: primes",2015,177.68
+"121","Autres assurances: primes",2016,181.48
+"122","Autres assurances: primes",2017,180.64
+"123","Autres assurances: primes",2018,178.46
+"124","Autres assurances: primes",2019,155.77
+"125","Autres assurances: primes",2020,162.6
+"126","Autres assurances: primes",2021,157.04
+"127","Taxes",2015,66.84
+"128","Taxes",2016,65.58
+"129","Taxes",2017,75.58
+"130","Taxes",2018,67.64
+"131","Taxes",2019,67.08
+"132","Taxes",2020,56.72
+"133","Taxes",2021,51.93
+"134","Dons, cadeaux offerts et invitations",2015,184.43
+"135","Dons, cadeaux offerts et invitations",2016,169.17
+"136","Dons, cadeaux offerts et invitations",2017,174.55
+"137","Dons, cadeaux offerts et invitations",2018,162.09
+"138","Dons, cadeaux offerts et invitations",2019,198.52
+"139","Dons, cadeaux offerts et invitations",2020,151.25
+"140","Dons, cadeaux offerts et invitations",2021,137.93
+"141","Assurances vie: primes",2015,258.2
+"142","Assurances vie: primes",2016,263.66
+"143","Assurances vie: primes",2017,270.56
+"144","Assurances vie: primes",2018,276.14
+"145","Assurances vie: primes",2019,282.1
+"146","Assurances vie: primes",2020,297.78
+"147","Assurances vie: primes",2021,317.26
